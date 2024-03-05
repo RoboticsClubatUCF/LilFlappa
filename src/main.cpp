@@ -11,7 +11,9 @@ void loop()
 {
   switch (state)
   {
-  default:
+  case MANUAL:
+    break;
+  case AUTOPILOT:
     break;
   }
 }
