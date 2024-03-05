@@ -22,7 +22,8 @@ typedef struct
 
 } five_axis_t;
 
-typedef struct {
+typedef struct
+ {
   double altitude;
   double heading;
   double speed;
@@ -35,3 +36,4 @@ typedef struct {
 
 
 #endif /* E0F0B197_E145_4160_AC80_450265C146BE */
+
