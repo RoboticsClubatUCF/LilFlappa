@@ -1,6 +1,6 @@
 /**
  * @file solve5Xis.cpp
- * @author Peter Cros (peter.cross222@gmail.com)
+ * @author Peter Cross (peter.cross222@gmail.com)
  * @brief helps solve out the 5 axis imu data
  * @version 0.1
  * @date 2024-02-27
