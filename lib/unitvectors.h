@@ -4,7 +4,7 @@
  * @brief obtains unit vectors from given vector
  * @version 0.1
  * @date 2024-03-04
- * fgfgh
+ * 
  * @copyright Copyright (c) 2024
  *
  */
