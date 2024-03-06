@@ -4,7 +4,7 @@
  * @brief obtains unit vectors from given vector
  * @version 0.1
  * @date 2024-03-04
- *
+ * fgfgh
  * @copyright Copyright (c) 2024
  *
  */
@@ -13,7 +13,7 @@
 #include "stdio.h"
 #include "math.h"
 
-vector3_cartesian v={1,1,1}; // arbritrary vector
+vector3_cartesian v={1,1,1}; // arbritrary vector and something else 
 
 
 
