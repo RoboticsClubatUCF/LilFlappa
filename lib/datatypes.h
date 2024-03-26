@@ -22,18 +22,4 @@ typedef struct
 
 } five_axis_t;
 
-typedef struct
- {
-  double altitude;
-  double heading;
-  double speed;
-  double roll;
-  
-
-} targets;
-
-
-
-
 #endif /* E0F0B197_E145_4160_AC80_450265C146BE */
-
