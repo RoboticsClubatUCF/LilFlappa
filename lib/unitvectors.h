@@ -26,3 +26,5 @@ double vecMagnitude(vector3_cartesian v) {
 
 vecMagnitude(vector3_cartesian v); 
 printf("%d", magnitude);
+
+// something
